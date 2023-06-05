@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ControladorDeGastos/1.0.0": {
+        "runtime": {
+          "ControladorDeGastos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ControladorDeGastos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
